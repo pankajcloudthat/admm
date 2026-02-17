@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,registration_date,status
+101,rahul,sharma,rahul.sharma@email.com,9876543210,Mumbai,2023-01-12,Active
+102,PRIYA,Verma,priya.verma@email.com,9876543211,Delhi,2023-02-15,Active
+103,Amit,,amit@email,98765,Pune,2023-03-20,Active
+104,Sneha,Kulkarni,,9876543213,Bangalore,2026-01-10,Active
+105,Raj,Patel,raj.patel@email.com,,Ahmedabad,2023-04-18,Inactive
+106,Anjali,Mehta,anjali.mehta@email.com,9876543215,Mumbai,,Active
+107,rahul,sharma,rahul.sharma@email.com,9876543210,Mumbai,2023-01-12,Active
+108,Karan,Singh,karan.singh@email,9876543217,,2023-05-10,Active
+109,Meera,Rao,meera.rao@email.com,abc123,Pune,2023-06-05,Active
+110,,Kapoor,kapoor@email.com,9876543219,Delhi,2023-07-01,Active
