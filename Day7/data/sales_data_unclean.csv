@@ -1,0 +1,1001 @@
+Category,Product,Region,Date,Sales,Quantity
+Home Decor,Cushion,East,2022-04-13,388.1,8.0
+Clothing,Jacket,east,2023-12-02,278.27,3.0
+Books,Fiction,South,2022-08-03,-18.05,8.0
+Clothing,Jeans,West,2023-01-08,280.61,8.0
+Home Decor,Lamp,North,2022-05-11,-38.68,2.0
+Sports,Football,South,2022-12-10,407.84,6.0
+Home Decor,Cushion,South,2023-01-21,50.0,5.0
+,,east,2022-06-10,,6.0
+,,West,2022-09-10,187.57,1.0
+Home Decor,Curtain,West,2023-04-20,286.52,3.0
+Electronics,Mobile,East,2023-07-21,490.78,9.0
+Clothing,Jacket,east,,-24.45,3.0
+Sports,Yoga Mat,east,2023-10-09,43.79,7.0
+Electronics,Mobile,South,2022-10-01,471.89,2.0
+Electronics,Laptop,east,2022-12-12,3.72,4.0
+,,East,2022-04-02,192.08,7.0
+,,West,2023-03-04,222.35,3.0
+Home Decor,Lamp,East,2022-07-25,165.08,
+Sports,Yoga Mat,east,2023-07-16,,8.0
+Books,Non-Fiction,West,2023-01-23,121.44,6.0
+Books,Comics,east,2023-07-20,250.69,6.0
+,,North,2023-04-22,483.27,2.0
+Electronics,,North,2022-07-21,442.16,8.0
+Home Decor,Curtain,East,2023-04-07,57.79,9.0
+Home Decor,Lamp,east,2023-12-03,128.93,2.0
+Home Decor,Curtain,east,2022-02-22,272.71,9.0
+Home Decor,Curtain,South,2022-07-07,248.48,9.0
+,,east,2022-06-06,391.21,1.0
+,,Central,2023-06-05,374.73,
+,,Central,2023-10-10,-46.96,3.0
+Sports,Tennis Racket,South,2023-08-16,341.24,3.0
+Sports,Yoga Mat,East,2022-10-16,283.28,7.0
+Clothing,Jeans,Central,2022-02-10,453.23,9.0
+Home Decor,Lamp,South,2022-02-02,-15.04,7.0
+Books,Fiction,Central,2023-07-28,128.85,3.0
+Home Decor,Lamp,east,2023-11-15,300.66,3.0
+,,Central,2023-09-05,484.44,3.0
+,,North,2022-01-05,258.7,7.0
+Sports,Yoga Mat,West,2023-01-28,340.86,3.0
+Books,Comics,East,2023-07-29,442.67,1.0
+Books,Fiction,east,2023-07-18,259.8,4.0
+Electronics,,East,2023-04-30,87.11,4.0
+Home Decor,Cushion,West,,468.57,7.0
+Books,Comics,east,2023-11-30,332.13,2.0
+,,east,2023-11-13,394.47,9.0
+Books,Non-Fiction,East,2023-10-08,201.09,4.0
+Electronics,Laptop,east,2022-11-27,,7.0
+Sports,Football,West,,442.85,7.0
+Books,Comics,North,2022-07-09,10.53,9.0
+Home Decor,Lamp,North,2022-10-10,184.91,
+Sports,Yoga Mat,east,2023-09-20,143.91,3.0
+,,North,2022-12-25,,6.0
+Home Decor,Curtain,Central,2023-04-01,243.75,5.0
+Home Decor,Lamp,East,2022-08-13,15.93,8.0
+Sports,Football,east,2023-01-09,70.32,8.0
+Books,Fiction,North,2022-08-21,172.11,1.0
+,,Central,2023-03-18,479.35,7.0
+Books,Comics,East,2023-01-21,341.75,5.0
+Home Decor,Curtain,North,2023-09-17,498.76,1.0
+Sports,Tennis Racket,North,2022-01-02,,2.0
+Clothing,Jacket,South,2022-08-08,-21.69,5.0
+,,east,2022-08-13,298.89,2.0
+Home Decor,Cushion,east,2022-02-22,219.2,6.0
+Clothing,Shirt,Central,2023-02-20,275.98,7.0
+Home Decor,Cushion,East,2022-07-22,153.31,
+Home Decor,Lamp,east,2023-02-05,350.52,8.0
+,,east,2023-09-02,298.44,1.0
+Clothing,Shirt,east,2022-07-20,126.43,6.0
+Books,Non-Fiction,South,2023-04-09,,3.0
+,,East,2023-10-22,129.28,4.0
+Electronics,Mobile,Central,2023-02-07,341.13,3.0
+Books,Non-Fiction,South,,141.77,7.0
+Home Decor,Curtain,east,2023-05-04,,1.0
+Electronics,Laptop,South,2023-10-02,234.76,8.0
+Books,Comics,Central,2023-10-03,321.63,9.0
+Home Decor,Curtain,East,,12.41,7.0
+Sports,Tennis Racket,east,2023-02-19,432.54,3.0
+Sports,Tennis Racket,North,2022-09-20,312.99,9.0
+Home Decor,Curtain,South,2023-07-26,93.46,1.0
+,,east,2022-10-31,480.98,5.0
+Clothing,Jeans,West,2022-02-06,435.45,7.0
+Home Decor,Curtain,Central,2022-01-09,103.38,3.0
+Clothing,Jeans,North,2022-07-27,443.41,8.0
+Home Decor,Lamp,South,2022-02-23,378.93,8.0
+,,West,2023-09-20,-3.72,
+Books,Comics,Central,2023-02-24,444.2,4.0
+Electronics,,Central,2022-09-11,-44.94,9.0
+Home Decor,Lamp,East,2022-04-09,485.52,2.0
+Electronics,Mobile,South,2022-12-04,217.09,3.0
+Sports,Tennis Racket,West,2023-12-21,496.95,4.0
+Electronics,Laptop,West,2022-06-10,-40.06,5.0
+Home Decor,Curtain,East,2023-05-19,,8.0
+Books,Non-Fiction,South,2022-05-15,346.52,1.0
+Clothing,Jeans,North,2023-11-19,,3.0
+Sports,Tennis Racket,South,2023-04-15,95.86,6.0
+,,East,2022-08-18,166.2,6.0
+,,South,2022-10-10,188.92,5.0
+Books,Non-Fiction,West,2023-09-01,267.3,
+,,South,,220.88,5.0
+Books,Comics,South,2023-10-21,264.6,1.0
+Electronics,Headphones,South,2023-05-27,47.41,5.0
+Clothing,Jacket,West,2023-06-02,153.59,9.0
+,,North,2022-02-06,460.58,1.0
+Sports,Football,West,2022-10-29,481.66,3.0
+Sports,Football,South,2023-12-01,419.16,5.0
+Books,Fiction,east,2022-06-10,124.31,2.0
+Sports,Tennis Racket,Central,2023-07-20,332.82,8.0
+Sports,Yoga Mat,East,2023-11-17,3.45,6.0
+Clothing,Shirt,East,2023-10-25,27.05,2.0
+Sports,Football,South,2022-04-14,333.36,6.0
+Sports,Tennis Racket,east,2022-06-25,254.05,7.0
+Sports,Tennis Racket,east,2023-06-22,395.56,9.0
+Sports,Yoga Mat,North,2023-02-12,452.28,7.0
+Sports,Football,East,2022-02-05,389.06,1.0
+Clothing,Shirt,South,2023-05-27,168.23,3.0
+Electronics,Mobile,East,2023-04-16,-34.81,2.0
+Clothing,Jeans,West,2023-12-28,319.61,3.0
+,,North,,206.08,6.0
+Home Decor,Curtain,East,2022-11-10,423.22,1.0
+Sports,Tennis Racket,South,2023-11-23,-28.64,6.0
+Books,Comics,North,2023-03-20,129.66,8.0
+Books,Non-Fiction,East,2022-02-22,99.35,5.0
+Books,Fiction,South,2022-04-13,-3.06,4.0
+Clothing,Jeans,East,2022-12-16,247.35,7.0
+Electronics,,West,2023-10-18,486.72,3.0
+,,Central,2023-10-19,169.35,3.0
+Sports,Yoga Mat,East,2023-08-27,359.22,
+Home Decor,Cushion,North,2022-12-12,-36.06,5.0
+Sports,Football,West,2022-05-07,332.79,5.0
+Clothing,Jacket,East,2023-10-03,45.31,1.0
+Books,Comics,Central,2022-04-06,252.07,9.0
+Electronics,,east,2023-05-03,464.04,1.0
+Sports,Tennis Racket,North,2022-09-29,234.18,5.0
+Clothing,Jeans,South,2022-09-04,-23.76,3.0
+Books,Non-Fiction,South,2022-03-27,-42.08,5.0
+Electronics,,Central,2022-02-16,-27.6,4.0
+Clothing,Jeans,East,2023-03-29,210.8,5.0
+Books,Fiction,Central,2023-07-05,140.47,5.0
+Electronics,Laptop,east,2022-01-23,-23.57,
+Clothing,Shirt,East,2022-04-10,-25.08,3.0
+Clothing,Jacket,West,2023-03-18,225.57,8.0
+Books,Non-Fiction,East,2022-11-21,326.18,8.0
+Electronics,,Central,2022-12-02,303.33,1.0
+Clothing,Shirt,east,2022-06-09,467.13,8.0
+Sports,Yoga Mat,east,2023-11-21,265.35,1.0
+Electronics,Laptop,South,2023-11-22,401.35,3.0
+Sports,Football,North,2023-07-31,478.65,2.0
+Sports,Tennis Racket,West,2022-09-10,1.94,3.0
+Clothing,Jacket,West,2023-12-28,-10.85,8.0
+Clothing,Shirt,South,2023-08-28,414.68,2.0
+Books,Comics,North,2022-04-25,105.02,4.0
+Electronics,Headphones,West,2023-05-16,141.59,8.0
+Electronics,Mobile,West,2023-02-24,179.87,9.0
+Clothing,Jeans,East,2023-11-07,47.59,9.0
+Electronics,Laptop,North,2022-07-11,266.76,3.0
+Home Decor,Lamp,East,2023-07-02,154.61,7.0
+Home Decor,Cushion,North,2022-04-06,137.44,5.0
+Electronics,Laptop,east,2023-01-04,323.91,7.0
+Clothing,Jeans,East,2022-08-05,81.03,1.0
+,,Central,2022-03-03,223.11,9.0
+Electronics,Headphones,West,2022-12-08,113.7,3.0
+,,North,2022-06-26,-20.58,9.0
+Books,Comics,Central,2022-03-17,,9.0
+Books,Comics,West,2023-03-31,476.24,4.0
+Home Decor,Curtain,North,2023-05-21,297.51,5.0
+Clothing,Jeans,West,2022-03-10,111.27,9.0
+Sports,Tennis Racket,Central,2023-04-14,363.81,7.0
+Sports,Yoga Mat,east,2022-05-24,384.29,5.0
+,,North,2022-02-11,485.84,5.0
+Clothing,Jacket,South,2022-06-12,438.24,2.0
+Sports,Tennis Racket,South,,482.76,9.0
+Electronics,,North,2022-03-15,410.33,1.0
+Clothing,Jacket,East,2022-09-10,411.16,8.0
+,,East,2022-06-19,168.16,2.0
+,,North,2023-06-01,232.33,6.0
+Books,Non-Fiction,Central,2022-12-05,,8.0
+Home Decor,Curtain,Central,2023-05-11,424.73,6.0
+Home Decor,Curtain,east,2023-05-15,80.18,7.0
+Electronics,Headphones,East,,,9.0
+Electronics,Laptop,East,2022-10-28,364.36,6.0
+Sports,Football,East,2022-09-09,-4.07,6.0
+Clothing,Jeans,East,2022-06-16,183.32,3.0
+Sports,Tennis Racket,east,2022-02-08,188.95,2.0
+,,Central,2022-08-08,264.31,4.0
+,,North,2023-04-21,371.96,9.0
+,,Central,2022-01-01,324.57,9.0
+Books,Comics,Central,2022-07-10,212.74,9.0
+Electronics,,South,2022-04-27,479.77,5.0
+Sports,Football,East,2022-03-21,240.24,5.0
+Books,Fiction,Central,2023-11-07,254.62,4.0
+Home Decor,Cushion,Central,2023-03-17,,2.0
+Sports,Football,east,2022-02-16,296.17,1.0
+Clothing,Shirt,South,2023-01-08,,6.0
+Clothing,Jacket,Central,2022-09-16,445.64,9.0
+Sports,Football,east,2022-01-12,477.29,8.0
+,,East,2022-12-24,200.61,5.0
+Sports,Yoga Mat,West,2022-01-08,,4.0
+Electronics,Mobile,West,2022-03-31,163.55,2.0
+Clothing,Shirt,Central,2023-06-24,,5.0
+,,South,2022-02-10,92.97,6.0
+Electronics,Laptop,South,2022-05-25,103.87,5.0
+Electronics,Mobile,Central,2023-12-25,281.53,3.0
+Electronics,Laptop,East,2022-09-10,467.29,3.0
+Electronics,Laptop,North,2022-09-13,269.64,9.0
+Home Decor,Cushion,East,2023-03-26,-4.49,2.0
+Electronics,,North,2022-09-08,-25.13,7.0
+Clothing,Jeans,East,2023-01-09,395.8,1.0
+Electronics,Headphones,east,2022-10-09,159.49,6.0
+Clothing,Shirt,South,2023-11-20,411.08,2.0
+Clothing,Jacket,east,2022-04-15,178.15,1.0
+Clothing,Jacket,East,2023-02-09,-18.99,6.0
+Home Decor,Curtain,east,2023-04-21,397.1,5.0
+,,East,2023-03-13,271.83,5.0
+Books,Non-Fiction,North,2023-11-08,366.39,3.0
+Books,Non-Fiction,east,2022-05-25,82.6,9.0
+Books,Comics,North,2022-01-01,474.73,4.0
+Clothing,Jacket,East,2023-03-22,433.02,8.0
+Books,Fiction,North,2022-02-03,146.99,8.0
+,,North,2023-07-05,319.37,2.0
+Home Decor,Curtain,South,2023-03-14,374.78,2.0
+Sports,Yoga Mat,East,2022-09-25,399.01,5.0
+Home Decor,Cushion,Central,2023-02-05,23.71,7.0
+Clothing,Shirt,West,2022-07-26,381.57,2.0
+Sports,Yoga Mat,North,2022-03-16,67.13,6.0
+,,North,2023-12-05,-42.0,6.0
+Home Decor,Cushion,east,2022-11-02,274.45,3.0
+Clothing,Jacket,South,2023-03-23,349.52,9.0
+Electronics,Mobile,Central,2022-06-15,198.0,7.0
+Sports,Yoga Mat,South,2022-04-16,424.3,5.0
+Sports,Tennis Racket,East,2022-05-18,459.62,1.0
+Clothing,Shirt,South,2023-05-23,,4.0
+Sports,Football,Central,2022-03-10,489.02,5.0
+Home Decor,Cushion,West,2023-03-26,130.81,3.0
+Clothing,Jacket,Central,2022-04-21,20.88,7.0
+Sports,Tennis Racket,South,2022-04-05,170.17,8.0
+Electronics,Mobile,East,2022-12-26,333.08,9.0
+Sports,Football,East,2022-07-14,430.87,2.0
+Sports,Yoga Mat,West,2022-03-02,55.76,3.0
+Electronics,,Central,2022-01-05,139.8,
+,,East,2023-11-13,47.36,5.0
+,,east,2023-05-28,243.93,2.0
+Electronics,Headphones,East,2022-03-19,131.55,9.0
+Home Decor,Curtain,South,2022-09-06,214.63,6.0
+,,Central,2022-08-27,231.41,1.0
+Books,Non-Fiction,east,2022-01-26,427.57,8.0
+Clothing,Jeans,east,2023-09-17,278.5,4.0
+Books,Comics,South,2023-12-20,245.12,8.0
+Books,Comics,West,2023-12-27,79.86,7.0
+Home Decor,Cushion,South,2022-03-19,,8.0
+Books,Comics,West,2023-01-21,361.11,8.0
+Sports,Football,West,2022-01-07,327.94,7.0
+Sports,Football,North,2022-12-29,,2.0
+Home Decor,Curtain,South,2023-05-21,144.78,3.0
+Sports,Yoga Mat,West,2022-01-15,7.68,7.0
+Sports,Football,Central,2023-04-30,,7.0
+Electronics,Mobile,North,2022-09-30,66.3,9.0
+Books,Fiction,East,2022-05-25,138.61,9.0
+Home Decor,Cushion,Central,2023-08-03,145.31,9.0
+Electronics,Laptop,North,2022-04-19,213.77,4.0
+,,North,2022-04-21,355.25,8.0
+Electronics,,East,2023-01-04,260.45,9.0
+,,West,2023-09-05,149.7,2.0
+Books,Fiction,Central,,84.39,6.0
+,,East,2023-01-12,80.47,6.0
+Electronics,,East,2022-10-04,34.07,7.0
+Books,Non-Fiction,South,2023-09-16,,4.0
+Sports,Yoga Mat,east,2022-12-16,52.61,8.0
+Electronics,,South,2022-05-17,-5.87,3.0
+Sports,Tennis Racket,South,2023-06-27,175.72,4.0
+,,East,2022-08-11,443.14,4.0
+Books,Fiction,North,2022-03-16,426.03,6.0
+Electronics,Mobile,South,,486.29,8.0
+Books,Comics,East,2023-07-28,461.16,8.0
+Home Decor,Curtain,Central,2022-01-26,103.99,5.0
+Clothing,Jacket,West,2022-11-22,482.4,4.0
+Electronics,,East,2023-12-25,229.19,1.0
+,,South,2022-05-20,,1.0
+Books,Non-Fiction,West,2022-03-31,372.28,6.0
+,,West,2022-05-19,462.61,3.0
+Home Decor,Curtain,North,2023-11-04,153.08,
+,,North,2022-01-10,251.73,2.0
+Electronics,Headphones,east,2022-01-13,326.51,4.0
+Sports,Tennis Racket,West,2022-11-17,26.35,
+Sports,Tennis Racket,West,2022-11-25,368.13,8.0
+Home Decor,Cushion,North,2023-07-04,,7.0
+Clothing,Shirt,North,2023-02-23,141.88,1.0
+Electronics,,east,2023-08-04,406.84,2.0
+Clothing,Shirt,Central,2022-11-30,,5.0
+Home Decor,Lamp,East,2023-01-11,495.01,
+Books,Non-Fiction,Central,2023-08-11,158.58,1.0
+Sports,Tennis Racket,east,2022-10-23,346.88,8.0
+Home Decor,Curtain,east,2022-08-17,60.9,3.0
+Clothing,Shirt,South,2023-12-26,52.52,3.0
+Sports,Tennis Racket,South,,315.86,4.0
+,,east,2023-08-24,432.46,9.0
+Home Decor,Curtain,South,2023-02-06,399.13,7.0
+Electronics,Laptop,West,2023-09-08,157.32,3.0
+,,East,2023-09-29,115.76,7.0
+Sports,Tennis Racket,east,2023-07-29,226.5,
+,,West,2023-10-27,,1.0
+Clothing,Jacket,West,2022-08-13,165.32,2.0
+Electronics,Laptop,Central,2023-09-08,75.96,7.0
+Clothing,Jeans,east,2022-07-17,466.91,7.0
+Sports,Football,Central,,351.8,4.0
+Clothing,Jeans,East,2022-01-15,433.25,1.0
+Electronics,,South,2023-04-23,441.64,4.0
+Electronics,Mobile,East,2022-06-06,33.42,1.0
+Home Decor,Lamp,North,2023-02-15,359.17,
+Electronics,,West,2022-09-11,62.5,2.0
+Home Decor,Curtain,Central,2023-06-06,221.69,1.0
+Books,Fiction,South,2022-04-28,401.69,4.0
+Books,Comics,East,,201.35,
+Home Decor,Curtain,West,2023-11-27,226.26,8.0
+Clothing,Shirt,South,2022-09-18,217.5,4.0
+Clothing,Shirt,Central,2023-11-16,346.02,3.0
+Clothing,Jacket,Central,2022-10-19,,5.0
+Electronics,Mobile,east,2023-10-22,49.88,8.0
+,,east,2023-07-04,75.04,7.0
+Books,Non-Fiction,West,2022-12-12,471.01,8.0
+Sports,Football,North,2022-07-29,286.3,8.0
+Electronics,,east,2023-11-14,462.67,4.0
+Clothing,Jeans,South,2022-11-20,384.55,5.0
+Home Decor,Cushion,east,2022-05-07,33.9,
+,,North,2023-08-27,155.94,9.0
+Sports,Tennis Racket,South,2022-02-20,355.04,8.0
+Electronics,Headphones,North,2022-10-24,459.06,7.0
+Sports,Tennis Racket,East,2023-09-05,491.66,4.0
+,,West,2022-07-01,,7.0
+,,East,2022-01-01,428.44,7.0
+Sports,Yoga Mat,east,2023-01-06,275.2,5.0
+,,east,2023-03-07,-19.88,9.0
+Books,Non-Fiction,East,2022-07-21,391.57,5.0
+Books,Comics,South,2023-10-28,133.42,4.0
+,,South,2023-06-21,424.93,6.0
+Books,Fiction,South,,140.49,2.0
+Clothing,Jacket,East,2023-04-20,355.63,1.0
+Clothing,Shirt,South,2023-10-02,73.53,3.0
+,,South,2022-07-01,47.01,7.0
+Clothing,Jeans,east,2022-06-29,180.41,8.0
+Clothing,Jacket,East,2022-06-10,149.32,6.0
+Books,Non-Fiction,West,2023-10-28,-42.8,5.0
+Clothing,Shirt,east,2022-02-18,47.92,4.0
+Clothing,Shirt,East,2022-12-27,31.76,
+Books,Non-Fiction,Central,2023-09-22,423.35,8.0
+Electronics,Laptop,West,2023-07-15,114.78,7.0
+Books,Non-Fiction,Central,2023-03-11,,8.0
+Home Decor,Lamp,Central,2023-12-24,142.16,1.0
+Books,Non-Fiction,east,2023-03-05,157.75,
+Sports,Football,Central,2022-05-24,260.66,2.0
+Sports,Yoga Mat,North,2023-08-13,342.73,2.0
+,,North,2022-07-13,243.95,1.0
+Clothing,Shirt,Central,2022-04-24,223.36,3.0
+Clothing,Shirt,east,,,4.0
+Clothing,Shirt,Central,2022-09-21,423.98,7.0
+,,Central,2023-10-05,155.32,3.0
+,,South,2022-06-11,174.8,7.0
+Clothing,Shirt,east,2022-02-24,35.88,2.0
+Home Decor,Curtain,Central,2023-01-26,312.41,1.0
+Sports,Football,East,2022-11-09,72.08,8.0
+Books,Comics,North,2023-03-19,228.03,8.0
+Sports,Yoga Mat,Central,2022-02-23,136.6,5.0
+Electronics,Headphones,Central,2023-08-02,,3.0
+Clothing,Jacket,South,2023-09-01,256.2,8.0
+,,east,2023-02-22,392.92,8.0
+Clothing,Jeans,North,2022-03-19,281.76,4.0
+Home Decor,Cushion,East,2023-05-15,317.45,5.0
+Sports,Yoga Mat,West,2022-01-07,298.28,1.0
+Books,Non-Fiction,east,2022-05-31,416.47,3.0
+Clothing,Jacket,North,2023-07-02,,2.0
+Books,Fiction,South,2023-05-29,450.84,5.0
+Clothing,Jacket,east,2023-06-07,92.68,2.0
+Clothing,Shirt,North,2023-12-08,274.66,4.0
+Sports,Yoga Mat,West,2022-09-18,139.86,9.0
+,,West,2022-08-14,423.59,3.0
+Clothing,Jeans,Central,2023-05-15,486.0,8.0
+Home Decor,Lamp,east,2023-08-16,427.66,8.0
+Electronics,,West,2022-02-28,442.0,1.0
+Sports,Football,South,2022-04-25,231.85,9.0
+Clothing,Shirt,Central,2023-07-06,334.37,9.0
+Books,Non-Fiction,South,2022-12-25,69.91,6.0
+Electronics,Laptop,South,2022-08-23,181.94,2.0
+Sports,Tennis Racket,east,2023-12-28,,5.0
+Clothing,Jeans,North,2022-03-16,402.42,5.0
+Electronics,Laptop,South,2022-02-11,267.08,6.0
+Electronics,,North,2022-02-03,254.8,9.0
+Electronics,Mobile,Central,2023-01-13,346.11,5.0
+Home Decor,Curtain,Central,2022-12-08,,5.0
+Sports,Football,East,2022-01-27,445.01,6.0
+Clothing,Jacket,North,2022-06-17,87.9,9.0
+Sports,Football,West,2023-03-31,265.31,1.0
+Home Decor,Lamp,South,2023-04-21,374.0,2.0
+Sports,Football,North,2022-12-29,51.4,5.0
+Clothing,Shirt,East,2022-10-19,374.04,5.0
+Home Decor,Curtain,Central,2022-10-23,190.46,4.0
+Electronics,,West,2022-04-23,346.84,8.0
+Electronics,Mobile,east,2022-08-15,472.12,7.0
+Clothing,Shirt,East,2023-09-15,474.75,6.0
+Books,Fiction,Central,2022-03-10,216.07,4.0
+,,South,2022-05-28,39.11,4.0
+Books,Fiction,South,2023-05-06,415.52,2.0
+Home Decor,Cushion,Central,2022-07-20,374.0,
+Electronics,Laptop,east,2023-05-16,139.41,8.0
+Clothing,Shirt,West,2022-01-17,177.04,8.0
+,,North,2022-02-11,,9.0
+Clothing,Jacket,East,,85.52,3.0
+Sports,Yoga Mat,Central,,-7.23,3.0
+Clothing,Jeans,North,2023-04-23,-47.11,3.0
+Sports,Tennis Racket,West,2023-09-05,0.37,1.0
+Sports,Yoga Mat,East,2022-01-17,472.63,7.0
+Electronics,Laptop,east,2023-05-12,51.82,8.0
+Books,Comics,South,2022-12-05,352.72,5.0
+Home Decor,Curtain,East,2022-03-22,312.33,
+Electronics,Laptop,South,2023-01-09,300.48,8.0
+,,east,2023-06-21,446.85,
+Clothing,Jacket,North,2022-09-25,71.67,9.0
+Books,Comics,South,2023-06-22,-28.32,7.0
+Books,Comics,North,2023-02-05,49.32,5.0
+Home Decor,Cushion,Central,,210.27,7.0
+Home Decor,Curtain,West,2022-12-01,333.58,9.0
+Clothing,Jeans,South,2023-11-19,13.41,7.0
+,,South,2023-04-22,210.82,4.0
+Books,Fiction,North,2023-02-06,237.34,7.0
+Clothing,Jacket,East,2022-09-30,307.59,8.0
+Electronics,Laptop,East,2023-09-12,16.31,2.0
+Home Decor,Curtain,East,2022-05-11,332.96,8.0
+Sports,Yoga Mat,South,2022-07-02,172.47,7.0
+Clothing,Jacket,West,2023-06-11,392.19,4.0
+Books,Non-Fiction,West,2022-12-15,313.91,2.0
+Home Decor,Curtain,Central,2022-06-10,437.29,2.0
+Electronics,,Central,2022-11-07,204.07,2.0
+Books,Non-Fiction,east,2023-02-18,-49.87,2.0
+Books,Comics,South,2023-02-20,,3.0
+,,Central,2022-02-08,-44.78,1.0
+Clothing,Jacket,North,2023-04-22,-29.32,9.0
+,,West,2022-09-29,,8.0
+Clothing,Jeans,North,2022-08-27,169.06,9.0
+Clothing,Jacket,South,2022-12-25,237.39,1.0
+Electronics,Laptop,South,2023-11-20,10.76,8.0
+,,South,2023-11-01,419.05,2.0
+Sports,Tennis Racket,South,2022-10-20,-26.85,1.0
+Books,Non-Fiction,West,2023-08-08,10.21,9.0
+,,East,2022-12-10,18.44,5.0
+,,North,2022-03-02,92.44,6.0
+Electronics,Headphones,east,2023-03-16,436.31,8.0
+Sports,Yoga Mat,West,2022-01-11,447.05,2.0
+Clothing,Shirt,East,2022-06-02,358.84,4.0
+,,North,2023-07-25,170.87,6.0
+Electronics,,South,2022-08-31,,2.0
+Sports,Yoga Mat,North,2022-08-06,-29.8,3.0
+Books,Fiction,east,2023-06-01,-18.19,7.0
+Electronics,Mobile,Central,2023-11-20,235.04,4.0
+Electronics,,East,2023-07-27,93.13,3.0
+Sports,Tennis Racket,Central,2023-11-21,220.15,1.0
+Books,Fiction,Central,2022-08-04,443.59,3.0
+,,east,2022-04-30,361.33,9.0
+Sports,Tennis Racket,east,2022-11-25,442.21,5.0
+,,Central,2023-09-02,201.59,8.0
+Sports,Tennis Racket,east,2022-11-19,100.13,9.0
+Books,Non-Fiction,West,2022-07-14,475.61,9.0
+Books,Comics,South,2023-04-08,310.38,5.0
+,,South,2023-01-30,-2.16,8.0
+Clothing,Shirt,east,2022-05-04,154.98,8.0
+,,South,2022-09-08,347.88,2.0
+Home Decor,Curtain,South,2023-03-30,479.17,5.0
+Home Decor,Curtain,East,2023-08-16,-16.17,3.0
+,,North,2023-11-29,264.23,8.0
+Clothing,Jacket,Central,2022-02-09,261.15,1.0
+Home Decor,Curtain,Central,2022-09-19,236.69,8.0
+Clothing,Jacket,West,2022-04-02,417.82,9.0
+Books,Comics,West,2022-12-29,81.28,5.0
+Clothing,Shirt,North,2022-06-19,8.21,6.0
+Books,Comics,North,2023-12-01,37.23,9.0
+Sports,Tennis Racket,North,2022-01-31,404.2,5.0
+,,South,2023-11-01,449.79,2.0
+Sports,Yoga Mat,South,2022-12-22,,2.0
+Clothing,Shirt,South,2023-12-19,366.15,7.0
+Books,Fiction,east,2022-08-12,-3.75,1.0
+,,West,2022-08-21,297.5,2.0
+Clothing,Shirt,East,2023-12-01,-45.01,3.0
+Books,Comics,North,2022-11-22,105.84,7.0
+Clothing,Shirt,South,2023-08-09,187.73,2.0
+Electronics,,West,2023-02-16,297.94,5.0
+Books,Non-Fiction,West,2022-10-05,465.48,4.0
+Books,Fiction,North,2022-08-30,471.01,1.0
+Books,Fiction,Central,2023-06-08,-12.96,6.0
+Books,Non-Fiction,South,2023-12-06,-18.14,8.0
+Sports,Football,South,2022-07-29,429.35,4.0
+Clothing,Jacket,North,2022-08-15,276.92,7.0
+Clothing,Shirt,East,2022-01-29,-37.83,6.0
+Electronics,Laptop,Central,2022-03-20,400.33,7.0
+Clothing,Jeans,West,2023-06-22,37.42,2.0
+Electronics,Mobile,West,2022-10-12,469.37,3.0
+Books,Comics,South,,198.26,7.0
+,,east,2022-09-28,387.15,4.0
+,,Central,2022-05-10,375.05,4.0
+Sports,Football,North,2022-01-22,22.23,3.0
+Electronics,,East,2023-01-17,33.08,5.0
+Books,Non-Fiction,East,2022-10-30,,5.0
+Home Decor,Curtain,West,2022-03-25,,6.0
+Home Decor,Cushion,West,2023-10-21,100.82,3.0
+,,Central,2023-05-22,175.13,6.0
+,,Central,2023-06-11,360.21,3.0
+Books,Non-Fiction,east,,-32.88,9.0
+,,east,2023-06-08,259.51,8.0
+Sports,Football,West,2022-03-01,52.04,1.0
+Sports,Yoga Mat,North,,0.14,8.0
+Books,Non-Fiction,Central,2023-08-14,199.53,2.0
+Home Decor,Cushion,east,2022-07-18,294.42,5.0
+,,east,2023-06-20,,3.0
+Books,Non-Fiction,Central,2023-07-12,204.15,7.0
+,,east,2022-09-30,284.02,4.0
+,,North,2023-06-05,60.29,9.0
+Clothing,Jeans,east,2023-12-27,270.08,5.0
+,,east,2023-01-21,388.66,1.0
+Home Decor,Curtain,East,2022-03-13,205.53,2.0
+Sports,Tennis Racket,East,2023-01-01,486.08,6.0
+Clothing,Jacket,South,2023-06-28,311.34,9.0
+Clothing,Shirt,South,2022-04-12,449.3,6.0
+Electronics,Headphones,east,2023-11-22,7.71,1.0
+Electronics,,east,2023-08-11,,9.0
+,,East,2022-02-15,28.37,
+Clothing,Jeans,West,2023-08-15,215.3,4.0
+Sports,Football,North,2023-11-04,257.81,
+Home Decor,Cushion,east,2022-08-30,129.55,2.0
+Books,Comics,East,2022-08-13,-1.67,1.0
+,,West,2023-08-12,-6.78,6.0
+Sports,Tennis Racket,West,2022-04-13,22.99,7.0
+,,east,2022-03-31,,2.0
+Clothing,Shirt,east,2022-05-23,60.08,7.0
+Electronics,Headphones,Central,2023-03-04,7.51,3.0
+Home Decor,Lamp,North,2023-09-27,-32.63,6.0
+Home Decor,Lamp,Central,2022-03-14,-21.42,9.0
+Home Decor,Lamp,South,2023-01-05,464.36,8.0
+,,east,2023-11-21,293.92,4.0
+Sports,Yoga Mat,East,2022-11-14,,7.0
+Sports,Yoga Mat,east,,313.45,4.0
+Electronics,Laptop,North,2023-01-25,399.51,3.0
+Home Decor,Curtain,East,,-27.59,2.0
+Electronics,,West,2022-01-12,85.91,9.0
+Home Decor,Lamp,South,2022-10-28,288.66,3.0
+Home Decor,Curtain,South,,486.73,4.0
+Electronics,Mobile,east,2023-11-16,50.16,7.0
+Sports,Football,Central,2022-11-05,312.29,3.0
+Home Decor,Cushion,Central,2023-08-17,-38.53,3.0
+Sports,Yoga Mat,South,2023-10-24,132.77,8.0
+,,North,2022-02-28,307.68,3.0
+Books,Fiction,Central,2022-02-04,71.31,6.0
+Electronics,Headphones,South,2022-07-26,91.73,1.0
+Books,Non-Fiction,east,2023-12-26,349.94,8.0
+Clothing,Shirt,South,2023-02-08,295.82,4.0
+,,east,2022-06-01,248.82,3.0
+Books,Fiction,West,2023-08-31,273.43,5.0
+Books,Non-Fiction,Central,2023-05-27,283.4,2.0
+Books,Non-Fiction,East,2022-10-22,102.26,3.0
+Clothing,Jeans,South,2022-07-05,451.8,3.0
+Sports,Tennis Racket,South,,,2.0
+Home Decor,Curtain,Central,2023-07-06,409.8,1.0
+Sports,Tennis Racket,East,2023-06-04,172.92,7.0
+Books,Non-Fiction,Central,2022-10-25,80.65,2.0
+Sports,Yoga Mat,east,2023-01-10,177.17,6.0
+Electronics,Laptop,Central,2023-07-07,85.98,8.0
+Electronics,Headphones,South,2022-08-19,147.58,2.0
+Home Decor,Curtain,East,2022-05-25,165.09,9.0
+Clothing,Jacket,West,2022-01-28,91.97,5.0
+,,North,2022-09-18,128.85,8.0
+Books,Comics,Central,2023-04-05,21.98,
+Clothing,Jeans,East,2022-10-28,80.37,3.0
+Sports,Football,West,2023-09-22,43.37,9.0
+Home Decor,Curtain,East,2022-09-14,197.19,8.0
+,,North,2023-11-14,471.72,9.0
+Electronics,Headphones,North,2023-07-30,,6.0
+Electronics,Mobile,North,2022-10-11,-29.83,5.0
+Sports,Football,West,2023-11-18,315.09,5.0
+Sports,Tennis Racket,North,2022-11-01,414.29,8.0
+Home Decor,Curtain,east,2022-06-05,425.32,6.0
+,,Central,2023-09-12,246.95,4.0
+Sports,Tennis Racket,east,2022-11-30,,2.0
+Books,Non-Fiction,North,2023-05-26,77.12,1.0
+Home Decor,Curtain,North,2022-04-29,73.59,5.0
+Sports,Football,South,2022-02-28,123.89,1.0
+Clothing,Shirt,east,2023-11-22,-27.13,4.0
+Electronics,Mobile,east,2023-11-24,213.94,2.0
+Clothing,Shirt,South,2022-08-05,301.52,9.0
+Sports,Tennis Racket,West,2022-02-08,200.11,2.0
+Books,Non-Fiction,West,2023-03-04,242.73,7.0
+Electronics,Mobile,North,2023-01-19,22.99,4.0
+,,South,2022-12-02,466.9,7.0
+Electronics,Mobile,North,2022-01-08,483.45,1.0
+Clothing,Jeans,South,2023-10-31,194.06,5.0
+Sports,Yoga Mat,east,2023-05-10,47.43,2.0
+Electronics,Laptop,east,2022-07-12,410.96,2.0
+Sports,Tennis Racket,West,2022-05-25,406.98,8.0
+Electronics,Laptop,east,2023-08-11,12.21,9.0
+Sports,Tennis Racket,Central,2022-01-01,68.62,5.0
+,,West,2022-10-31,308.18,2.0
+Books,Non-Fiction,West,2023-12-05,-23.48,9.0
+Home Decor,Curtain,North,2022-06-10,173.8,9.0
+Clothing,Jacket,North,2023-08-12,108.78,4.0
+Electronics,Headphones,east,,307.78,
+,,Central,2022-04-12,129.87,6.0
+Books,Fiction,South,2022-01-19,394.32,2.0
+Home Decor,Lamp,South,2023-02-01,388.8,3.0
+Home Decor,Cushion,Central,2022-12-31,399.81,8.0
+Sports,Football,South,2023-03-31,,9.0
+Clothing,Jeans,North,2023-12-26,128.52,7.0
+Books,Fiction,Central,2022-05-23,332.51,9.0
+Books,Non-Fiction,East,2023-02-21,,1.0
+Clothing,Jacket,North,2023-05-12,,3.0
+Electronics,Mobile,Central,2022-04-12,,3.0
+Sports,Yoga Mat,West,2023-09-14,303.42,2.0
+Electronics,Mobile,West,,204.92,3.0
+,,east,2022-03-26,424.83,2.0
+Electronics,,South,2023-03-30,,5.0
+Electronics,,Central,2022-08-09,137.69,5.0
+,,North,2022-10-31,269.09,4.0
+Home Decor,Curtain,South,2022-02-12,370.69,6.0
+Electronics,,North,2023-05-13,343.52,5.0
+,,South,2023-02-11,186.97,
+Sports,Tennis Racket,east,2022-12-02,306.11,9.0
+Sports,Tennis Racket,South,2023-12-16,159.04,4.0
+Books,Fiction,east,2022-05-21,143.39,2.0
+,,East,2022-11-30,217.23,5.0
+,,east,2023-07-18,318.55,3.0
+Sports,Yoga Mat,east,2023-10-10,121.22,4.0
+Sports,Football,South,2023-11-01,343.88,1.0
+Home Decor,Curtain,South,2023-08-12,177.45,9.0
+Home Decor,Lamp,East,2022-12-16,,7.0
+Electronics,Headphones,Central,2022-12-17,422.68,7.0
+Home Decor,Cushion,Central,2022-06-08,339.98,8.0
+,,South,2022-08-29,,8.0
+Electronics,Mobile,Central,2022-02-05,183.49,6.0
+Clothing,Jeans,North,2023-01-20,155.43,7.0
+Books,Comics,east,2022-04-28,233.35,9.0
+Sports,Football,West,2022-01-26,66.62,8.0
+Books,Comics,West,2023-01-13,148.42,
+Books,Comics,South,2023-11-13,445.01,1.0
+Books,Non-Fiction,east,2022-06-03,,5.0
+Clothing,Shirt,West,2023-08-03,101.14,3.0
+Electronics,Headphones,East,2023-09-04,183.06,9.0
+Electronics,Headphones,Central,2022-05-26,371.66,1.0
+Home Decor,Lamp,Central,2023-03-15,272.63,1.0
+Sports,Football,South,2023-04-28,428.09,1.0
+Electronics,Laptop,east,2023-09-23,244.45,6.0
+Books,Non-Fiction,West,2023-03-08,121.75,3.0
+Electronics,Headphones,South,2023-03-31,250.68,
+Home Decor,Curtain,Central,2023-10-12,91.29,9.0
+Clothing,Jacket,Central,2022-09-11,27.98,3.0
+Home Decor,Lamp,east,2022-09-20,332.33,3.0
+Electronics,Mobile,east,2023-07-08,185.51,7.0
+,,North,2023-04-04,495.19,3.0
+Home Decor,Curtain,South,2023-08-03,348.39,7.0
+Home Decor,Lamp,East,2023-09-13,,4.0
+Sports,Yoga Mat,east,2022-12-19,277.66,9.0
+Books,Comics,South,2023-10-10,151.83,6.0
+,,Central,2023-03-01,,7.0
+Books,Comics,West,2023-12-09,193.33,2.0
+Electronics,Mobile,West,2023-06-01,-11.54,5.0
+Books,Fiction,east,2022-08-18,276.05,3.0
+Home Decor,Cushion,South,2023-01-16,201.27,6.0
+Home Decor,Curtain,North,2022-05-10,496.78,2.0
+Electronics,Mobile,East,2023-09-06,256.78,2.0
+Home Decor,Curtain,South,2023-04-16,205.86,8.0
+Electronics,,North,2023-10-24,259.26,4.0
+Sports,Yoga Mat,West,2023-03-29,,9.0
+Clothing,Jeans,east,2022-11-07,244.71,9.0
+Sports,Football,North,2022-02-24,,1.0
+Electronics,,West,2023-02-04,315.7,4.0
+Electronics,,East,2023-05-30,459.95,7.0
+Sports,Yoga Mat,east,2022-12-14,485.79,6.0
+Clothing,Shirt,Central,2023-06-01,355.45,8.0
+Clothing,Jacket,Central,,246.98,9.0
+Books,Comics,West,2022-10-13,236.53,6.0
+Clothing,Shirt,east,2023-02-10,-0.98,7.0
+Home Decor,Curtain,East,2022-06-10,284.67,6.0
+Sports,Tennis Racket,South,2023-05-15,339.81,4.0
+,,East,2023-04-26,75.05,2.0
+Home Decor,Curtain,East,2022-12-27,-1.8,9.0
+Books,Comics,east,2023-03-25,118.04,4.0
+Books,Fiction,east,2023-12-03,195.96,4.0
+Books,Fiction,West,2023-04-11,233.62,3.0
+Sports,Tennis Racket,South,2023-02-10,223.33,6.0
+Clothing,Shirt,West,2022-11-12,418.28,1.0
+Sports,Football,North,2022-02-11,246.85,3.0
+Books,Non-Fiction,West,,320.87,6.0
+Books,Non-Fiction,east,2022-03-08,,7.0
+Home Decor,Curtain,Central,2023-06-10,-5.49,5.0
+Home Decor,Cushion,East,2023-11-06,45.44,2.0
+,,South,2023-04-11,476.53,2.0
+Sports,Tennis Racket,North,2022-09-23,402.36,9.0
+Books,Fiction,North,2022-09-10,424.11,4.0
+,,East,,283.5,1.0
+,,east,2022-04-20,444.04,4.0
+,,South,2023-04-28,169.26,9.0
+Books,Comics,South,2023-10-15,,5.0
+,,east,2023-04-27,-12.51,2.0
+,,East,2023-06-21,77.9,4.0
+Books,Fiction,South,2023-10-20,102.76,6.0
+Electronics,,North,,-49.82,2.0
+Sports,Yoga Mat,West,2022-03-01,150.64,3.0
+Clothing,Jeans,East,2023-06-01,379.42,9.0
+Home Decor,Cushion,Central,2023-10-04,216.53,2.0
+Electronics,Headphones,West,2022-09-10,290.72,9.0
+Home Decor,Curtain,North,2022-03-24,43.87,5.0
+Electronics,Mobile,West,2022-11-25,380.48,3.0
+Electronics,Mobile,South,2022-09-20,330.69,1.0
+Electronics,,South,2022-09-17,,4.0
+,,Central,2023-09-07,,8.0
+Books,Fiction,Central,2022-04-11,288.37,4.0
+,,Central,2022-08-09,293.14,6.0
+Clothing,Jeans,east,2022-08-19,348.37,5.0
+Electronics,Laptop,East,2023-09-20,172.64,3.0
+Clothing,Shirt,Central,2023-06-03,239.03,6.0
+Sports,Tennis Racket,East,,405.15,5.0
+Electronics,Laptop,east,2023-08-21,480.1,7.0
+Sports,Yoga Mat,South,2023-01-21,,5.0
+Home Decor,Lamp,Central,2022-09-03,384.69,5.0
+Sports,Tennis Racket,east,2023-10-12,324.54,8.0
+Electronics,Mobile,east,2023-02-27,290.42,5.0
+,,east,2022-08-30,296.11,5.0
+Clothing,Shirt,South,2022-12-04,-14.46,4.0
+Electronics,,West,2023-04-10,10.35,
+Electronics,Laptop,East,2023-12-01,305.35,5.0
+Home Decor,Cushion,East,2022-11-04,96.31,5.0
+,,East,2023-05-25,32.53,
+Books,Comics,East,2023-07-18,83.91,2.0
+Clothing,Jacket,South,2022-08-15,156.74,4.0
+Electronics,,West,2023-02-26,165.82,1.0
+Clothing,Shirt,North,2022-04-15,6.18,8.0
+Sports,Yoga Mat,East,2023-01-28,468.56,2.0
+Electronics,Mobile,North,2023-07-26,-7.97,1.0
+Electronics,,East,2022-01-10,461.68,8.0
+Books,Fiction,South,2022-10-11,300.46,2.0
+Sports,Tennis Racket,North,2023-12-27,300.17,1.0
+Home Decor,Cushion,East,2022-06-22,,3.0
+Sports,Football,West,2023-08-04,355.59,1.0
+Sports,Tennis Racket,West,2022-03-28,324.13,8.0
+Clothing,Jeans,Central,2023-05-20,,7.0
+Books,Fiction,West,2022-02-12,312.47,3.0
+Sports,Football,East,2023-02-12,7.95,1.0
+Home Decor,Curtain,West,2023-10-07,229.72,8.0
+Sports,Yoga Mat,South,2023-01-01,495.37,4.0
+Books,Non-Fiction,West,2023-02-03,468.27,3.0
+Sports,Yoga Mat,east,2023-06-24,145.16,5.0
+Electronics,Laptop,West,2022-12-16,406.79,8.0
+Home Decor,Curtain,West,2022-11-16,183.36,1.0
+Home Decor,Curtain,Central,2022-08-11,380.37,8.0
+Home Decor,Lamp,West,2022-11-25,160.07,2.0
+Electronics,,West,2023-07-15,90.48,4.0
+Clothing,Jeans,South,,376.05,9.0
+Books,Fiction,North,2022-08-05,241.67,2.0
+Sports,Tennis Racket,South,2022-05-29,18.88,8.0
+Books,Fiction,East,2023-01-09,217.31,2.0
+Clothing,Jeans,Central,,20.45,1.0
+Home Decor,Curtain,South,2023-02-06,73.54,9.0
+Clothing,Shirt,East,2023-05-03,187.64,9.0
+,,east,2023-09-18,468.69,4.0
+Electronics,Mobile,North,2023-12-26,321.79,3.0
+Sports,Yoga Mat,South,2023-11-17,-43.01,5.0
+Sports,Tennis Racket,West,2022-05-02,398.77,7.0
+Clothing,Shirt,North,2022-02-08,415.58,9.0
+Sports,Tennis Racket,North,2023-06-14,299.84,5.0
+Clothing,Jeans,East,2023-09-30,413.1,8.0
+Home Decor,Cushion,North,2022-08-26,377.05,6.0
+Books,Non-Fiction,Central,2023-10-24,491.57,6.0
+Home Decor,Cushion,East,2023-04-11,9.37,5.0
+,,West,2023-04-08,0.53,2.0
+Books,Fiction,South,2023-08-30,218.62,7.0
+Home Decor,Lamp,East,2022-03-29,138.31,6.0
+,,West,2023-11-14,367.0,1.0
+Books,Fiction,East,2023-11-27,286.57,6.0
+Sports,Tennis Racket,Central,2022-01-19,33.36,7.0
+Home Decor,Lamp,West,2022-04-18,299.96,5.0
+Home Decor,Lamp,east,2022-04-21,38.47,8.0
+Electronics,Headphones,West,2022-05-09,357.94,3.0
+Home Decor,Lamp,West,2023-03-25,102.85,3.0
+Electronics,Mobile,Central,2022-08-12,,2.0
+Clothing,Jacket,West,2023-05-06,121.01,
+Books,Comics,Central,,358.29,7.0
+Electronics,Mobile,east,2022-03-07,145.46,9.0
+Sports,Football,North,2023-05-15,238.29,6.0
+Clothing,Jacket,east,2022-01-12,360.15,9.0
+Clothing,Jeans,North,2023-02-22,367.27,4.0
+Books,Comics,east,2023-08-10,365.95,7.0
+Books,Fiction,Central,2022-03-11,432.16,5.0
+Electronics,Mobile,North,2023-11-29,152.57,4.0
+Electronics,,east,2022-01-20,379.22,6.0
+Electronics,,North,2022-08-15,25.8,6.0
+Home Decor,Lamp,east,,,5.0
+Clothing,Jacket,East,2023-02-09,-34.01,4.0
+Sports,Yoga Mat,east,2022-07-07,386.81,4.0
+Home Decor,Cushion,North,,171.28,7.0
+,,East,2023-05-31,230.56,3.0
+Clothing,Jeans,east,2023-12-29,7.28,7.0
+,,North,2023-05-15,258.36,8.0
+,,North,2022-06-11,279.65,3.0
+Books,Comics,Central,2022-06-08,-37.39,3.0
+Home Decor,Curtain,Central,2022-11-15,-7.62,6.0
+Sports,Yoga Mat,North,2023-10-26,,6.0
+Home Decor,Curtain,Central,2022-04-27,383.74,3.0
+Sports,Tennis Racket,East,2023-03-08,155.4,7.0
+Books,Fiction,South,,354.53,1.0
+Sports,Football,South,2022-05-26,154.28,1.0
+,,east,2023-04-21,354.61,9.0
+Clothing,Jacket,South,2022-04-28,303.41,1.0
+,,east,2022-07-17,299.9,6.0
+Home Decor,Cushion,West,2023-07-13,411.89,7.0
+Sports,Tennis Racket,east,2022-05-17,472.67,5.0
+Electronics,,Central,2023-05-20,261.05,2.0
+Clothing,Shirt,West,2023-09-11,,1.0
+Books,Comics,Central,2022-09-11,272.56,6.0
+Books,Non-Fiction,east,2023-07-17,467.37,
+Electronics,Headphones,east,2023-03-02,419.0,3.0
+Sports,Tennis Racket,east,2023-08-04,413.06,5.0
+Home Decor,Cushion,East,2022-02-18,189.35,5.0
+Books,Non-Fiction,West,2022-12-22,23.41,4.0
+Books,Fiction,North,2023-09-30,350.37,2.0
+Sports,Yoga Mat,Central,,450.16,8.0
+Electronics,Mobile,east,2022-11-09,,4.0
+,,Central,2022-07-01,73.87,9.0
+Books,Comics,east,2023-06-27,457.44,9.0
+Clothing,Jacket,East,2023-07-02,-42.63,8.0
+,,Central,2023-09-10,105.2,
+Clothing,Shirt,North,2022-08-08,101.65,
+Electronics,Mobile,North,2022-08-08,382.92,6.0
+Books,Non-Fiction,Central,2023-09-10,,9.0
+Clothing,Jacket,Central,2022-07-24,97.48,9.0
+Clothing,Shirt,North,2022-08-16,-31.51,4.0
+Clothing,Shirt,West,2022-09-07,,9.0
+Home Decor,Cushion,East,2023-06-17,242.83,1.0
+Sports,Football,North,2023-06-03,,6.0
+Home Decor,Curtain,South,2023-10-01,80.23,8.0
+Sports,Football,East,2022-07-22,479.87,7.0
+,,east,2023-03-02,405.33,8.0
+Books,Fiction,South,2022-05-22,351.95,5.0
+Clothing,Shirt,West,2022-03-23,29.73,7.0
+Electronics,,Central,2023-12-31,55.15,1.0
+Home Decor,Curtain,East,2023-01-06,484.6,
+Sports,Yoga Mat,East,2023-01-19,,9.0
+Electronics,Mobile,east,2023-03-21,12.75,2.0
+,,Central,2023-09-21,73.92,9.0
+Clothing,Shirt,West,2022-11-23,326.06,1.0
+,,South,2023-08-16,489.28,2.0
+Electronics,Mobile,South,2022-01-28,347.55,9.0
+,,East,2023-02-27,339.31,1.0
+Books,Comics,North,2023-09-02,-5.05,6.0
+Electronics,Mobile,Central,2023-09-02,,
+,,North,2023-07-31,185.75,5.0
+Books,Comics,east,2023-05-29,315.3,
+,,North,2022-02-26,317.96,2.0
+Sports,Football,east,2022-05-24,176.47,7.0
+Sports,Football,Central,2022-03-27,109.82,8.0
+,,West,2022-10-21,393.52,3.0
+Clothing,Shirt,South,2023-12-05,386.69,
+Home Decor,Cushion,North,2023-07-15,60.75,7.0
+Clothing,Shirt,east,2022-10-04,40.59,4.0
+Clothing,Jacket,Central,,366.21,6.0
+Books,Non-Fiction,East,2023-10-17,,8.0
+Electronics,Mobile,Central,2022-08-01,,6.0
+Clothing,Shirt,east,2023-09-20,428.82,9.0
+Home Decor,Lamp,North,2023-11-11,491.74,1.0
+,,East,2023-03-23,253.88,8.0
+,,Central,,205.16,8.0
+Sports,Football,Central,2022-02-13,246.29,4.0
+Home Decor,Cushion,Central,2022-08-15,8.01,4.0
+Electronics,,North,2023-08-24,168.56,3.0
+Sports,Tennis Racket,east,2023-12-10,480.46,8.0
+Electronics,Headphones,West,2022-09-25,237.83,8.0
+Home Decor,Lamp,Central,2023-05-23,,9.0
+Home Decor,Curtain,South,2022-06-13,102.04,8.0
+Sports,Tennis Racket,South,2023-07-21,,9.0
+Books,Comics,East,2023-07-13,57.71,8.0
+,,East,2022-07-29,36.88,4.0
+Books,Comics,Central,,256.8,2.0
+Sports,Football,east,2023-01-22,149.71,2.0
+Clothing,Jacket,South,2022-02-09,228.88,1.0
+Sports,Yoga Mat,West,2023-06-04,441.69,5.0
+,,West,2022-09-17,,6.0
+Clothing,Shirt,east,2023-01-01,,6.0
+Sports,Tennis Racket,North,2023-06-28,14.7,7.0
+,,Central,2022-01-16,,1.0
+Electronics,Laptop,West,2023-07-29,216.95,5.0
+Books,Comics,East,2023-06-17,348.85,2.0
+Clothing,Jeans,east,2022-09-17,498.39,7.0
+,,West,2023-10-02,-43.07,9.0
+Electronics,Headphones,North,2022-05-11,240.07,9.0
+Books,Non-Fiction,East,2023-10-28,-6.33,5.0
+Books,Non-Fiction,West,2022-08-15,53.08,9.0
+Books,Fiction,Central,2023-01-07,455.01,6.0
+Home Decor,Cushion,South,2022-07-30,367.77,9.0
+Clothing,Jeans,East,2023-01-30,445.71,9.0
+,,east,2023-12-26,89.88,6.0
+Clothing,Shirt,North,2022-05-11,433.9,5.0
+Electronics,,Central,2022-06-05,404.29,1.0
+Electronics,Laptop,Central,2023-11-06,28.08,9.0
+Clothing,Jacket,East,2022-11-03,197.69,9.0
+Home Decor,Lamp,West,2022-10-06,,6.0
+,,east,2022-09-30,412.8,3.0
+Clothing,Shirt,South,2022-10-16,,4.0
+Sports,Tennis Racket,east,2022-09-29,8.49,3.0
+Sports,Yoga Mat,Central,2022-09-05,-11.7,7.0
+Clothing,Jacket,West,2023-03-30,420.66,1.0
+Electronics,Laptop,East,2023-10-02,303.59,4.0
+Electronics,,South,2023-03-18,231.96,6.0
+Clothing,Jeans,South,2022-05-23,,5.0
+Sports,Tennis Racket,Central,2022-08-15,369.74,5.0
+Books,Comics,West,2022-10-29,367.59,4.0
+Sports,Tennis Racket,east,2023-04-05,78.02,9.0
+Electronics,Headphones,West,2022-07-26,93.16,1.0
+Books,Fiction,Central,2023-10-08,318.9,7.0
+,,North,2023-03-19,11.04,8.0
+Sports,Football,east,2023-07-12,203.2,4.0
+Clothing,Jacket,West,2023-05-16,250.66,3.0
+Home Decor,Lamp,North,,177.02,
+,,North,2023-05-22,182.4,9.0
+Books,Comics,East,2023-02-28,,8.0
+Clothing,Jacket,North,2022-09-27,454.94,
+Books,Non-Fiction,east,2023-12-28,20.1,9.0
+Sports,Yoga Mat,West,2022-03-24,485.03,3.0
+Home Decor,Lamp,East,2023-03-02,334.62,4.0
+Electronics,Mobile,East,2022-06-22,479.55,9.0
+Clothing,Jeans,East,2023-09-28,406.17,3.0
+Books,Non-Fiction,East,2023-02-02,70.14,5.0
+Books,Fiction,east,2023-11-07,3.09,9.0
+,,South,2022-11-16,261.94,4.0
+Clothing,Jacket,East,2022-03-30,403.49,5.0
+Sports,Yoga Mat,east,2022-11-30,358.76,4.0
+Electronics,,east,2022-03-09,432.48,
+,,East,2023-05-29,317.29,
+Clothing,Jeans,Central,2023-09-14,137.22,8.0
+Home Decor,Lamp,east,2022-05-07,294.4,1.0
+Home Decor,Cushion,east,2023-03-08,-30.93,3.0
+Clothing,Shirt,North,2023-07-30,384.04,5.0
+Clothing,Jeans,West,2023-10-23,-15.0,4.0
+Books,Non-Fiction,North,2023-11-15,13.21,9.0
+Sports,Yoga Mat,Central,2023-03-21,-32.04,3.0
+Home Decor,Lamp,West,2023-04-27,433.44,1.0
+Sports,Yoga Mat,West,,-36.17,7.0
+,,Central,2023-03-07,-4.79,
+Books,Fiction,East,2023-03-14,189.03,9.0
+,,North,2023-10-21,440.89,6.0
+Electronics,Mobile,East,2022-08-20,471.46,6.0
+Books,Non-Fiction,South,2023-05-20,336.45,4.0
+Home Decor,Cushion,east,2023-03-31,22.43,4.0
+Sports,Yoga Mat,East,2023-02-10,382.71,3.0
+,,Central,2023-05-07,472.79,2.0
+Books,Comics,East,2022-12-13,358.98,1.0
+Sports,Football,east,2023-08-07,,7.0
+,,east,2022-09-19,440.31,2.0
+Sports,Football,South,2023-07-27,209.87,8.0
+Books,Non-Fiction,West,2023-04-12,102.25,1.0
+Home Decor,Lamp,East,2023-03-17,132.24,1.0
+Books,Comics,South,2023-02-28,208.36,4.0
+,,Central,2023-11-20,234.11,6.0
+Clothing,Shirt,Central,2022-02-18,-45.78,8.0
+Electronics,Mobile,North,2023-07-09,414.16,1.0
+Home Decor,Lamp,east,2023-08-25,204.57,5.0
+,,South,2023-12-05,231.97,6.0
+Electronics,Headphones,east,2023-01-17,102.8,8.0
+Electronics,,South,2023-07-03,106.51,1.0
+Clothing,Jacket,West,,12.61,3.0
+Books,Non-Fiction,North,2023-07-25,229.08,9.0
+Books,Comics,East,2023-07-05,221.45,3.0
+Electronics,Headphones,West,2022-11-29,461.18,1.0
+Home Decor,Lamp,West,2022-06-17,182.01,8.0
+Electronics,Laptop,Central,2023-04-01,319.02,
+Sports,Football,North,2022-04-19,284.35,1.0
+Electronics,Mobile,Central,2022-10-28,345.14,5.0
+Electronics,Laptop,South,2023-06-04,424.58,7.0
+Home Decor,Curtain,North,2023-11-01,91.68,7.0
+Clothing,Shirt,West,2023-11-20,282.09,2.0
+,,Central,2023-10-20,12.97,1.0
+,,North,2023-10-01,314.47,5.0
+Home Decor,Curtain,Central,2023-10-21,277.98,
+Books,Non-Fiction,east,2022-03-25,445.18,3.0
+Sports,Tennis Racket,Central,2023-10-17,362.42,2.0
+Clothing,Shirt,East,2022-04-15,305.55,3.0
+Sports,Tennis Racket,North,2022-09-23,226.18,3.0
+Electronics,Laptop,West,2022-04-28,13.66,7.0
+Sports,Tennis Racket,Central,2023-06-24,,3.0
+Electronics,Mobile,North,2022-03-25,300.83,5.0
+Home Decor,Cushion,east,2023-05-29,241.5,3.0
+,,North,2022-12-16,28.18,1.0
+,,East,2022-09-25,112.27,1.0
+Clothing,Shirt,East,2022-11-07,267.46,5.0
+,,East,2022-08-01,,1.0
+Sports,Yoga Mat,Central,2022-05-07,138.74,7.0
+Books,Comics,east,2023-02-12,,9.0
+Sports,Yoga Mat,east,2022-10-21,,5.0
+Sports,Tennis Racket,east,2023-03-14,418.51,4.0
+Electronics,Mobile,North,2023-09-03,-7.31,9.0
+Books,Non-Fiction,North,2023-09-26,274.66,2.0
+Sports,Football,West,2023-03-27,197.57,9.0
+Books,Comics,West,2022-03-04,4.38,9.0
+Home Decor,Cushion,east,2022-04-28,,4.0
+Electronics,Laptop,South,2023-01-15,328.62,7.0
+Electronics,Mobile,east,2022-10-17,41.77,5.0
+Books,Non-Fiction,east,2022-01-07,,4.0
+Books,Fiction,South,2023-02-25,439.55,1.0
+Clothing,Jeans,South,2023-07-13,34.95,2.0
+,,East,2023-02-23,137.33,1.0
